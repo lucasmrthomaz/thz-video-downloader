@@ -1,4 +1,8 @@
 # THZ Video Downloader
+
+![image](https://github.com/lucasmrthomaz/thz-video-downloader/assets/11547508/6302e481-061a-4189-9f8b-a357e56aa3ec)
+- Latest version 1.06-Release on Windows 11 (64-bit)
+
 Script to download videos from YouTube.
 Make life easier when downloading videos to keep offline.
 
